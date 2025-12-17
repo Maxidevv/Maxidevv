@@ -4,11 +4,11 @@
 <h1 align="center">¡Hola, Soy Maxi! 👋</h1>
 <h3 align="center">Estudiante de Ingeniería en Informática & Fullstack Developer.</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/maxi-moncada-4a5b3b26a">
+  <a href="https://www.linkedin.com/in/maxi-moncada-4a5b3b26a" target="_blank">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
-  <a href="https://github.com/Maxidevv">
+  <a href="https://github.com/Maxidevv" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
-      <a href="maxilucianomoncada@gmail.com">
+      <a href="maxilucianomoncada@gmail.com" >
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 </p>
 <b>¿Quién soy?</b>
@@ -20,35 +20,8 @@ Desde chico me fascinó la tecnología y las computadoras, esa curiosidad me lle
 <br>
 <br>
 <br>
-💻 <b>Lenguajes de programación</b>
-<br>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
-  </a>
-</p>
-
-<p align="left"> 
-  
-💻 <b>Desarrollo Frontend</b>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-  
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
-  </a>
-  
-  <a href="https://tailwindcss.com" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
-  </a>
+💻 <b>Stacks</b>
+<p align="left">
+    <br>
+    <img alt="Stacks" src="https://skills.syvixor.com/api/icons?perline=15&i=html,css3,tailwindcss,bootstrap,c,java,postgresql,sql,windows,linux,debian,googlecloud"/>
 </p>
