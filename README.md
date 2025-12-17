@@ -20,8 +20,8 @@ Desde chico me fascinó la tecnología y las computadoras, esa curiosidad me lle
 <br>
 <br>
 <br>
-💻 <b>Stacks</b>
+💻 <b>Tech Stack</b>
 <p align="left">
     <br>
-    <img alt="Stacks" src="https://skills.syvixor.com/api/icons?perline=15&i=html,css3,tailwindcss,bootstrap,c,java,postgresql,sql,windows,linux,debian,googlecloud"/>
+    <img alt="Stacks" src="https://skills.syvixor.com/api/icons?perline=15&i=html,css3,tailwindcss,bootstrap,c,java,postgresql,sql,windows,linux,debian,googlecloud,github,git"/>
 </p>
